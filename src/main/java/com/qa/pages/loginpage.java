@@ -9,4 +9,10 @@ public class loginpage {
 	{
 		System.out.println("print the name");
 	}
+	
+	
+	public void thepage()
+	{
+		System.out.println("dont execute the program");
+	}
 }
